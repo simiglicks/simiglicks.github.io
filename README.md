@@ -17,6 +17,6 @@ This website was created as an assignment for an Intro to Python course taught b
 I made _aliya_ from America after I graduated high school. I like travelling, biking, and learning new things.
 
 
-Gur Lab at WIS: https://www.weizmann.ac.il/molgen/Gur/home 
-Gábor Szabó, Python instruction: https://szabgab.com/
+<a href="https://www.weizmann.ac.il/molgen/Gur/home">Gur Lab at WIS</a><br>
+<a href="https://szabgab.com/">Gábor Szabó, Python instruction</a>
 
