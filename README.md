@@ -1,7 +1,7 @@
 # Simi Glicksman
 
 
-img src="![WhatsApp Image 2024-11-04 at 17 49 31](https://github.com/user-attachments/assets/3bd574e0-617a-4cde-be8b-279413b5e5a5)" alt="alt text" width="200" /
+![WhatsApp Image 2024-11-04 at 17 49 31](https://github.com/user-attachments/assets/34a08b69-4463-4b58-95c0-6a9db7f623a9)
 
 
 **About**
