@@ -1,5 +1,9 @@
 # simiglicks.github.io
 
+![WhatsApp Image 2024-11-04 at 17 49 31](https://github.com/user-attachments/assets/3bd574e0-617a-4cde-be8b-279413b5e5a5)
+<img src="![WhatsApp Image 2024-11-04 at 17 49 31](https://github.com/user-attachments/assets/3bd574e0-617a-4cde-be8b-279413b5e5a5)" alt="alt text" width="200" />
+
+
 **About**
 
 I am a first year MsC student at Weizmann Institute of Science. I am studying life scienes and currently doing a rotation in Dvir Gur's lab.
