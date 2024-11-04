@@ -1,7 +1,8 @@
 # Simi Glicksman
 
 
-![WhatsApp Image 2024-11-04 at 17 49 31](https://github.com/user-attachments/assets/34a08b69-4463-4b58-95c0-6a9db7f623a9)
+![cyprus snow](https://github.com/user-attachments/assets/a8951292-f062-4900-8815-cffb72b285c9)
+
 
 
 **About**
