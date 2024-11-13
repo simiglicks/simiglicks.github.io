@@ -1,10 +1,9 @@
 # Simi Glicksman
 
 
-![cyprus snow](https://github.com/user-attachments/assets/a8951292-f062-4900-8815-cffb72b285c9)
-
-
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/a8951292-f062-4900-8815-cffb72b285c9" alt="cyprus snow" width="200"/>
+</p>
 **About**
 
 I am a first year MsC student at Weizmann Institute of Science. I am studying life scienes and currently doing a rotation in Dvir Gur's lab.
