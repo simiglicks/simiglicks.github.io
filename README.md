@@ -1,7 +1,8 @@
 # Simi Glicksman
 
 
-![cyprus snow](https://github.com/user-attachments/assets/a8951292-f062-4900-8815-cffb72b285c9)
+<!-- ![cyprus snow](https://github.com/user-attachments/assets/a8951292-f062-4900-8815-cffb72b285c9) -->
+<a img href=https://github.com/user-attachments/assets/a8951292-f062-4900-8815-cffb72b285c9 />
 
 
 
